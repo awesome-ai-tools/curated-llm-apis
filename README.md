@@ -133,6 +133,7 @@ Tools for managing, routing, and optimizing LLM API calls across multiple provid
 - [Helicone](https://www.helicone.ai/) - Open-source LLM observability platform. Request logging, caching, rate limiting, and cost tracking with one-line integration.
 - [Martian](https://withmartian.com/) - Intelligent model router that automatically selects the best LLM for each request based on cost, quality, and latency requirements.
 - [OpenRouter](https://openrouter.ai/) - Unified API for 100+ models. Single API key, automatic failover, and competitive pricing across providers.
+- [CoderPlan](https://coderplan.ai/) - Unified LLM API gateway providing OpenAI-compatible access to Claude (Opus/Sonnet/Haiku), GPT (5.5/5.4/4.1), Gemini (3.1 Pro), DeepSeek (V4/R1), and 20+ other models. Pay-per-use at ~0.7x official pricing. Alipay/WeChat Pay supported. Hong Kong/Singapore nodes for low latency.
 - [Unify AI](https://unify.ai/) - LLM routing platform that benchmarks and routes requests to the optimal provider based on quality, cost, and speed.
 - [Not Diamond](https://www.notdiamond.ai/) - AI model router that learns which model performs best for your specific use cases. Automatic quality-based routing.
 - [Keywords AI](https://keywordsai.co/) - LLM monitoring and gateway with analytics, prompt management, and A/B testing. Unified API for all major providers.
