@@ -128,6 +128,7 @@ APIs for generating vector embeddings from text, used in search, RAG, and simila
 
 Tools for managing, routing, and optimizing LLM API calls across multiple providers.
 
+- [AI Router](https://ai-router.dev/) - OpenAI-compatible ChatGPT API relay for developers with API keys, usage tracking, token/cost visibility, daily/weekly packages, and staged new-user credit.
 - [LiteLLM](https://github.com/BerriAI/litellm) - Open-source proxy supporting 100+ LLMs with a unified OpenAI-compatible API. Load balancing, fallbacks, spend tracking, and rate limiting.
 - [Portkey](https://portkey.ai/) - AI gateway with semantic caching, automatic retries, load balancing, and observability. Supports 200+ models. SOC2 compliant.
 - [Helicone](https://www.helicone.ai/) - Open-source LLM observability platform. Request logging, caching, rate limiting, and cost tracking with one-line integration.
