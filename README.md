@@ -124,12 +124,12 @@ APIs for generating vector embeddings from text, used in search, RAG, and simila
 - [Mixedbread AI](https://www.mixedbread.ai/) - High-quality embeddings with binary quantization support. mxbai-embed-large-v1 competitive with OpenAI at lower cost.
 - [Nomic AI](https://www.nomic.ai/) - Open-source nomic-embed-text with 8192 context. Fully auditable with published training data. Free for research use.
 
-## API Gateways & Routers
+## API   Gateways & Routers
 
 Tools for managing, routing, and optimizing LLM API calls across multiple providers.
-
+- **[APIClaw](https://apiclaw.biz/)**  Flat-rate OpenAI-compatible AI API gateway ($19$129/mo) with free 50-request trial; one endpoint for Claude, OpenAI, Kimi, Qwen, DeepSeek, GLM.
 - [LiteLLM](https://github.com/BerriAI/litellm) - Open-source proxy supporting 100+ LLMs with a unified OpenAI-compatible API. Load balancing, fallbacks, spend tracking, and rate limiting.
-- [Portkey](https://portkey.ai/) - AI gateway with semantic caching, automatic retries, load balancing, and observability. Supports 200+ models. SOC2 compliant.
+- [Portkey](https://portkey.ai/) - AI gateway with semantic caching, automatic retries, load balancing, and observability. Supports 200+ models. SOC2 compliant
 - [Helicone](https://www.helicone.ai/) - Open-source LLM observability platform. Request logging, caching, rate limiting, and cost tracking with one-line integration.
 - [Martian](https://withmartian.com/) - Intelligent model router that automatically selects the best LLM for each request based on cost, quality, and latency requirements.
 - [OpenRouter](https://openrouter.ai/) - Unified API for 100+ models. Single API key, automatic failover, and competitive pricing across providers.
