@@ -78,6 +78,7 @@ Platforms that host and serve open-source and open-weight models via API.
 - [Anyscale](https://www.anyscale.com/) - Scalable LLM serving built on Ray. Supports fine-tuning and hosting of open models. Enterprise-grade deployment with auto-scaling.
 - [Replicate](https://replicate.com/) - Run open-source models in the cloud with a simple API. Pay per second of compute. Supports Llama, Stable Diffusion, Whisper, and thousands more.
 - [Modal](https://modal.com/) - Serverless cloud for AI/ML. Run any model with GPU access. Pay-per-second billing. Great for batch jobs and custom inference pipelines.
+- [Fikra API](https://fikraapi.co.ke) - OpenAI-compatible endpoint for open-weight chat models, billed per token in USD with a $1 minimum top-up (M-Pesa and cards accepted). Hosts DeepSeek V4.1 Flash ($0.045/$0.09 per 1M tokens, 1M context), GLM 5.3 / 5.3 Flash / 5.2, Kimi K3, StepFun Step 5, Qwen 3.8 27B (cached input $0.10/M), MiMo V2.6 Pro and Nemotron 3.5 Super VL. Nairobi region,.keys and full catalog at fikraapi.co.ke.
 - [Perplexity API](https://docs.perplexity.ai/) - LLM API with built-in web search grounding. Sonar models combine language understanding with real-time internet data retrieval.
 - [DeepInfra](https://deepinfra.com/) - Cost-effective inference for open models. Llama 3.1 8B at $0.03/$0.05 per 1M tokens. Serverless GPUs with global edge deployment.
 - [Cerebras](https://cerebras.ai/) - Wafer-scale inference engine. Extremely fast inference for Llama 3.1 models at $0.10/1M tokens for 8B model. Record-setting throughput.
@@ -230,6 +231,7 @@ Comparison of major LLM API providers. Prices are per **1 million tokens** (USD)
 - **Keywords AI** - LLM monitoring gateway
 - **Mixedbread AI** - High-quality embeddings with binary quantization
 - **Not Diamond** - Quality-based model routing
+- **Fikra API** - OpenAI-compatible endpoint serving DeepSeek-first open-weight models (V4.1 Flash $0.045/$0.09 per 1M, 1M context)
 
 ## Related Lists
 
