@@ -217,6 +217,8 @@ Comparison of major LLM API providers. Prices are per **1 million tokens** (USD)
 >
 > **Sources**: [OpenAI Pricing](https://openai.com/api/pricing/) | [Anthropic Pricing](https://www.anthropic.com/pricing) | [Google AI Pricing](https://ai.google.dev/gemini-api/docs/pricing) | [Mistral Pricing](https://mistral.ai/pricing) | [xAI Pricing](https://docs.x.ai/developers/models) | [DeepSeek Pricing](https://api-docs.deepseek.com/quick_start/pricing) | [Cohere Pricing](https://cohere.com/pricing) | [Groq Pricing](https://groq.com/pricing)
 
+For a more recent cross-provider reference, [AIHOT API Pricing](https://aihot.news/leaderboard/prices) compares per-million-token API prices sourced from official provider pricing.
+
 ---
 
 ## Recently Added
